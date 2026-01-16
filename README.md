@@ -36,7 +36,7 @@ Step-1: Download Anaconda
 2.	Click on Download and select Anaconda Individual Edition.
 3.	Choose Python 3.x version suitable for your operating system.
    
-##Python IDEs
+Python IDEs
 IDE	Description
 IDLE	Basic Python IDE
 Spyder	Scientific Python IDE (Anaconda)
