@@ -3,16 +3,16 @@ Experiment–1
 Title
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
 ________________________________________
-##Aim
+## Aim
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.
 ________________________________________
-##Objectives
+## Objectives
 •	To understand Python features and applications
 •	To install Python and Jupyter Notebook using Anaconda
 •	To explore Python IDEs and environments
 •	To execute basic Python programs using Jupyter Notebook and Google Colab
 ________________________________________
-##Theory
+## Theory
 1. Introduction to Python
 Python is a high-level, interpreted, and object-oriented programming language widely used for data analysis, machine learning, automation, and scientific computing.
 ________________________________________
@@ -36,7 +36,7 @@ Step-1: Download Anaconda
 2.	Click on Download and select Anaconda Individual Edition.
 3.	Choose Python 3.x version suitable for your operating system.
    
-Python IDEs
+**Python IDEs**
 IDE	Description
 IDLE	Basic Python IDE
 Spyder	Scientific Python IDE (Anaconda)
@@ -44,7 +44,7 @@ PyCharm	Professional Python IDE
 VS Code	Lightweight code editor
 Jupyter Notebook	Interactive EDA environment
 
-##Google Colab
+## Google Colab
 Google Colab is a cloud-based Python environment provided by Google.
 Advantages:
 •	No installation required
