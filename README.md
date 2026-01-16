@@ -26,15 +26,21 @@ Advantages of Anaconda:
 ________________________________________
 Why python?
 Python is a widely used programming language because of its simple, readable syntax, versatility across diverse domains, and vast ecosystem of libraries and frameworks. It is suitable for beginners and professionals alike, and is backed by a large, active community and major tech companies. 
- 
+<img width="616" height="390" alt="image" src="https://github.com/user-attachments/assets/6011a493-fdec-4fb2-811a-af8d0d2c00a8" />
+<img width="630" height="373" alt="image" src="https://github.com/user-attachments/assets/c31014cb-7fad-4148-b39e-38c6c6987426" />
+
 Why Jupyter NoteBook?
 Jupyter NoteBook provides an interactive environment that integrates live code, explanatory text, and visualizations into a single, shareable document. This makes it ideal for iterative workflows, exploration, and communication.
+<img width="661" height="384" alt="image" src="https://github.com/user-attachments/assets/c6f4f5d2-58ab-422b-aae5-1af80515654f" />
+
 
 3. Installation of Anaconda and Jupyter Notebook
 Step-1: Download Anaconda
 1.	Visit the official Anaconda website: https://www.anaconda.com
 2.	Click on Download and select Anaconda Individual Edition.
 3.	Choose Python 3.x version suitable for your operating system.
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/17146646-7b8e-4b10-babc-8549471ce7f3" />
+
    
 **Python IDEs**
 IDE	Description
